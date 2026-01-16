@@ -13,10 +13,11 @@ Repositório dos meus estudos de **Python para Back-end**, com exercícios e pr�
 
 ## Curso em Vídeo - Python 3 (Gustavo Guanabara)
 - Mundo 1 ✅
-- Mundo 2 ✅ (até exercício 50)
+- Mundo 2 ⏳ (até exercício 43)
 - Mundo 3 ⏳
 
 ---
 
 ## 📁 Estrutura do Repositório
+
 
