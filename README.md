@@ -1,23 +1,26 @@
-# 🐍 Python Back-end: Alura + Curso em Vídeo
+# 🐍 Marcello Dias Silva - Python Back-end
 
-Repositório dos meus estudos de **Python para Back-end**, com exercícios e práticas dos cursos:
+Estudante de **Análise e Desenvolvimento de Sistemas**  
+**Buscando 1º Estágio TI** | Santos/SP  
 
-## Formação Alura - Python Back-end
-- [01] Git e GitHub: compartilhando e colaborando em projetos [0%]
-- [02] Prática de Python: trabalhando com projetos [0%]
-- [03] Python: aplicando orientação a objetos [0%]
-- [04] Prática de Python: listas e tuplas [0%]
-- [05] **Prática de Python: funções** [35%] ← **Em progresso**
-- [06] Python: avançando com orientação a objetos e APIs
-- [07] Prática de Python: conjuntos e dicionários [0%]
-
-## Curso em Vídeo - Python 3 (Gustavo Guanabara)
-- Mundo 1 ✅
-- Mundo 2 ⏳ (até exercício 43)
-- Mundo 3 ⏳
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=marcellods99&show_icons=true&theme=radical)](https://github.com/marcellods99)
 
 ---
 
-## 📁 Estrutura do Repositório
+## 📚 Formações Ativas (Atualizado 20/Jan/2026)
 
+### **Alura - Trilha Python Back-end**
+✅ 01 Git/GitHub
+✅ 02 Python primeira app
+✅ 03 Prática condicionais
+✅ 04 Prática laços
+🎯 05 Prática funções (90%) ← FOCO ATUAL
+⏳  06 Python OOP + APIs
 
+text
+**Atual**: Funções (contagem, saudação, conversão tipos)
+
+### **Curso em Vídeo - Python 3 (Guanabara)**
+✅ Mundo 1 (fundamentos)
+✅ Mundo 2 Ex51 Progressão Aritmética ← FOCO ATUAL
+⏳ Mundo 3 (funções + listas)
