@@ -79,8 +79,8 @@ Este é meu "caderno digital" onde:
 ## 📝 Contato
 
 Estou aberto a dúvidas, sugestões e feedback!
-- **LinkedIn**: [marcellods99](https://linkedin.com/in/marcellods99)
-- **Email**: marcello@example.com *(adicione seu email se desejar)*
+- **LinkedIn**: [marcellods99](https://linkedin.com/marcellods99)
+- **GitHub**: [marcellods99](https://github.com/marcellods99)
 
 ---
 
