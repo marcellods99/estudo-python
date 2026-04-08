@@ -1,5 +1,5 @@
 """
-Questão 7
+Questão 4
 Crie um programa que solicite dois valores numéricos à pessoa usuária e imprima a multiplicação dos dois valores.
 """
 

@@ -1,5 +1,5 @@
 """
-Questão 5
+Questão 2
 Crie um programa que solicite três valores numéricos à pessoa usuária e imprima a soma dos três valores.
 """
 

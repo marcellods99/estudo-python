@@ -1,5 +1,5 @@
 """
-Questão 9
+Questão 6
 Crie um programa que solicite dois valores numéricos, um operador e uma potência, e realize a exponenciação entre esses dois valores.
 """
 

@@ -1,5 +1,5 @@
 """
-Questão 10
+Questão 7
 Crie um programa que solicite dois valores numéricos, um numerador e um denominador e realize a divisão inteira entre os dois valores. Deixe claro que o valor do denominador não pode ser 0.
 """
 
