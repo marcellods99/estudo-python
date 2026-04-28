@@ -3,3 +3,9 @@
 num1 = int(input('Digite um número: '))
 num2 = int(input('Digite outro número: '))
 
+if num1 % 2:
+    print('É impar')
+    if num2 % 2:
+        print('É impar')
+else:
+    print('É Par')
