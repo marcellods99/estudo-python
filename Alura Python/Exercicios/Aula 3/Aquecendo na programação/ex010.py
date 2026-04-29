@@ -4,33 +4,32 @@
 num1 = float(input('Digite um número: '))
 num2 = float(input('Digite outro número: '))
 
+print('Qual operação você deseja realizar\n[1] - Soma\n[2] - Subtração\n[3] - Multiplicação\n[4] - Divisão ')
+
+escolha = int(input(''))
+if escolha == 1:
+  r = num1 + num2
+elif escolha == 2:
+  r = num1 - num2
+elif escolha == 3:
+  r = num1 * num2
+elif escolha == 4:
+  r = num1/num2
+else:
+  print('burro')
+
+
 r1 = 'par' if num1 % 2 == 0 else 'ímpar'
 r2 = 'par' if num2 % 2 == 0 else 'ímpar'
 
-print('Escolha qual operação você deseja usar:\n[1] - Soma\n[2] - Subtração\n[3] - Multiplicação\n[4] - Divisão')
+r2_1 = 'positivo' if num1 > 0 else 'negativo'
+r2_2 = 'positivo' if num1 > 0 else 'negativo'
 
-op = input('\nEscolha a operação (1-4):')
-if op == '1':
-    resultado = num1 + num2
-elif op == '2':
-    resultado = num1 - num2
-elif op == '3':
-    resultado = num1 * num2
-elif op == '4':
-    resultado = num1 / num2
-else:
-    print("banana")
+r3_1 = 'inteiro' if int(num1) else 'decimal'
+r3_2 = 'inteiro' if int(num1) else 'decimal'
 
-re1 = 'positivo' if num1 > 0 else 'negativo'
-res2 = 'positivo' if num2 > 0 else 'negativo'
-
-resp = 'inteiro' if num1 == int(num1) else 'decimal'
-respos = 'inteiro' if num2 == int(num2) else 'decimal'
-
-
-r_res = 'par' if resultado % 2 == 0 else 'ímpar'
-re_res = 'positivo' if resultado > 0 else 'negativo'
-resp_res = 'inteiro' if resultado == int(resultado) else 'decimal'
-
-print(f'O {num1} é {r1}, {re1} e {resp}\nO {num2} é {r2}, {res2} e {respos}')
-print(f'O resultado {resultado} é {r_res}, {re_res} e {resp_res}')
+print('-=' * 20)
+print(f'O resultado da operação foi: {r}')
+print(f'O primeiro número ({num1}) é {r1}, {r2_1} e {r3_1}.')
+print(f'O segundo número ({num2}) é {r2}, {r2_2} e {r3_2}.')
+print('-=' * 20)
