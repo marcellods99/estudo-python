@@ -23,7 +23,7 @@ r1 = 'par' if num1 % 2 == 0 else 'ímpar'
 r2 = 'par' if num2 % 2 == 0 else 'ímpar'
 
 r2_1 = 'positivo' if num1 > 0 else 'negativo'
-r2_2 = 'positivo' if num1 > 0 else 'negativo'
+r2_2 = 'positivo' if num2 > 0 else 'negativo'
 
 r3_1 = 'inteiro' if num1 == int(num1) else 'decimal'
 r3_2 = 'inteiro' if num2 == int(num2) else 'decimal'
