@@ -6,5 +6,18 @@ Também foram contabilizados os votos nulos (representados pelo número 5) e os 
 
 '''
 
-for candidatos in range(1, 20):
-    print()
+lista = [1] #jean
+lista2 = [2] #jonathan
+lista3 = [3] #josé
+lista4 = [4] #joyce
+lista5 = [5] #nulo
+
+print('[1] - Jean\n[2] - Jonathan\n[3] - José\n[4] - Joyce\n[5] - Nulo ')
+
+while True:
+    candidatos = int(input('\n'))
+    if candidatos <= 0:
+        break
+
+    if candidatos == "1":
+        lista
