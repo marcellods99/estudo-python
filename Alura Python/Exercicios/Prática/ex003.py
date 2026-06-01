@@ -1,11 +1,8 @@
-#3) Escreva um programa que determine se uma letra fornecida pela pessoa usuária é uma vogal ou consoante.
+#Faça um programa que some todos os números de 1 até 100 usando for.
 
-letra = str(input('Digite uma letra: ')).lower()
+soma = 0
 
-vogal = 'aeiou'
-cons = 'bcdfghjklmnpqrstvwxyz'
+for c in range(1,101):
+    soma = soma + c
 
-if letra == vogal:
-    print(f'{letra} É uma vogal!')
-    if letra == cons:
-        print(f'{letra} é uma consoante!')
+print(soma)

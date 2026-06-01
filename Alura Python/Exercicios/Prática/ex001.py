@@ -1,8 +1,4 @@
-#1) Escreva um programa que peça à pessoa usuária para fornecer dois números e exibir o número maior.
+#Faça um programa que mostre os números de 1 até 10 usando for.
 
-num = int(input('Digite um número: '))
-num2 = int(input('Digite outro número: '))
-
-valormax = max(num, num2)
-
-print(f'O valor mais alto entre {num} e {num2} é: {valormax}')
+for c in range(1,11):
+    print(c, end=' ')

@@ -9,5 +9,6 @@
   "editor.parameterHints.enabled": false,
   "editor.suggest.showIcons": false,
   "github.copilot.enable": false,
-  "github.copilot.inlineSuggest.enable": false
+  "github.copilot.inlineSuggest.enable": false,
+  "python.REPL.enableREPLSmartSend": false
 }

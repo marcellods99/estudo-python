@@ -1,8 +1,6 @@
-#2) Escreva um programa que solicite o percentual de crescimento de produção de uma empresa e informe se houve um crescimento (porcentagem positiva) ou decrescimento (porcentagem negativa).2) Escreva um programa que solicite o percentual de crescimento de produção de uma empresa e informe se houve um crescimento (porcentagem positiva) ou decrescimento (porcentagem negativa).
+#Peça um número ao usuário e mostre a tabuada dele de 1 até 10.
 
-num = int(input('Digite um número: '))
+tabuada = int(input('Digite a tabuada: '))
 
-if num < 0:
-    print('Decrescimento')
-else:
-    print('Crescimento')
+for c in range(1,11):
+    print(f'{tabuada} x {c} = {tabuada * c}')
