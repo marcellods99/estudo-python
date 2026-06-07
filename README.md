@@ -7,7 +7,7 @@ Repositório com exercícios, projetos e aprendiçados dos cursos de Python que 
 ## 📋 Sobre
 
 Aqui documento minha jornada aprendendo Python através de dois cursos reconhecidos:
-- **Alura** - Trilha Back-End Python (Fundamentos)
+- **Alura** - Modo Carreira Python para Dados (Do ínicio ao avançado)
 - **Curso em Vídeo** - Python 3 com Guanabara (Lógica de Programação)
 
 Cada pasta representa um nível ou fase do aprendizado, com exercícios práticos e desafios.
