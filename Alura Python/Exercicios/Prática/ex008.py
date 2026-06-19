@@ -8,5 +8,5 @@ raca_caes = ['Labrador Retriever',
 
 raca_caes.insert(1, 'Golden Retriever')
 
-raca_caes.pop(2)
+raca_caes.append('5')
 print(raca_caes)
