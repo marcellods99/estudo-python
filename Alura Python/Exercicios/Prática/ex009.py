@@ -1,3 +1,4 @@
-tabuada = int(input('Digite a tabuada que você quer ver:'))
-for c in range(1,11):
-    print(f'{tabuada} x {c} = {tabuada*c}')
+loja = {'nomes': ['televisão', 'celular', 'notebook', 'geladeira', 'fogão'],
+        'precos': [2000, 1500, 3500, 4000, 1500]}
+
+        
