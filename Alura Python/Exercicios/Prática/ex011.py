@@ -6,10 +6,10 @@ compras3000 = 0
 
 for gasto in empresa:
     if gasto > 3000:
-        compras3000 = compras3000 + 1
+        compras3000 = compras3000 + 1   #se empresa tiver um número maior q 3000 mil, colocar na lista.
 
 total_compras = len(empresa)
 porcentagem = (compras3000 / total_compras) * 100
 
-print(f"Quantidade de compras acima de R$ 3000: {compras3000}")
-print(f"Porcentagem quanto ao total: {porcentagem:.2f}%")
+print(f'{compras3000}')
+print(f'{porcentagem:.2f}')
