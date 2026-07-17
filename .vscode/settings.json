@@ -6,5 +6,8 @@
   "python.analysis.extraPaths": [
     "${workspaceFolder}/.venv/Lib/site-packages"
   ],
-  "python-envs.defaultEnvManager": "ms-python.python:system"
+  "python-envs.defaultEnvManager": "ms-python.python:system",
+  "cursorpyright.analysis.extraPaths": [
+    "${workspaceFolder}/.venv/Lib/site-packages"
+  ]
 }
