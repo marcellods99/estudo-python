@@ -16,19 +16,20 @@ Cada pasta representa um nível ou fase do aprendizado, com exercícios prático
 
 ## 📁 Estrutura das Pastas
 
-### `Alura-Python/`
-Exercícios e projetos práticos da formação Python (Alura):
-- Pensamento Computacional
-- Primeira App
-- Prática de Condicionais
-- Prática de Laços
-- **[EM PROGRESSO]** Prática de Funções
+### [`alura-primeiros-passos/`](./alura-primeiros-passos)
+Alura - Python: primeiros passos. Exercícios das aulas 1 a 5 e prática final
+(calculadora com operadores, coleta e amostragem de dados, edição de textos).
 
-### `Guanabara/` *(Em organização)*
-Exercícios e projetos do Curso em Vídeo (Guanabara):
-- Mundo 1: Fundamentos
-- Mundo 2: Repetições
-- Mundo 3: Estruturas Compostas
+### [`alura-funcoes-estruturas-excecoes/`](./alura-funcoes-estruturas-excecoes)
+Alura - Python: trabalhando com funções, estruturas de dados e exceções:
+- `aprendendo/`: exemplos das aulas (incluindo `random` e `matplotlib`)
+- `Hora da prática 1/`: 10 exercícios
+
+### [`curso-em-video/`](./curso-em-video)
+Curso em Vídeo - Python 3 (Guanabara):
+- `Mundo 1/`: Fundamentos
+- `Mundo 2/`: Repetições
+- Mundo 3: Estruturas Compostas *(próximo)*
 
 ---
 
@@ -78,17 +79,17 @@ Este é meu "caderno digital" onde:
 
 ## 🛠️ Stack
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 📝 Contato
 
 Estou aberto a dúvidas, sugestões e feedback!
-- **LinkedIn**: [marcellods99](https://linkedin.com/marcellods99)
+- **LinkedIn**: [marcellods99](https://www.linkedin.com/in/marcellods99/)
 - **GitHub**: [marcellods99](https://github.com/marcellods99)
 
 ---
